@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🎓  I’m a Computer Science Grad Student at The University of Texas at Dallas. </br>
-👨‍💻  I am passionate about Data Science, Machine Learning , AI, Kubernetes, Web Development, DevOps. </br>
-🤔  I’m currenly seeking summer 2022 SE internships. <br/>
+👨‍💻  Passionate about Data Science, Machine Learning , AI, Kubernetes, Web Development, DevOps. </br>
+🤔  Currenly seeking summer 2022 SE internships. <br/>
 ⚡  Fun fact: I have broken humor. <br/>
 
 
