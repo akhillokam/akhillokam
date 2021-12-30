@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **akhillokam/akhillokam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Readme Update-->
+
+<h1 align="center">Hi <img src="https://github.com/akhillokam/Akhil/blob/main/Wave.gif" height="55px" width="55px">, I am Shammi Akhil Lokam</h1>
+<h3 align="center">Getting in the Game. Committed to the Future 😁 </h3>
+
+
+<a href="https://www.linkedin.com/in/shammi-akhil-lokam/">
+  <img align="left" alt="Akhil's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="mailto:shammi.akhil97@gmail.com ">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<p><img align="right" alt="GIF" src="https://github.com/akhillokam/Akhil/blob/main/tech.gif" width="300" height="250" /></p> </br>
+
+
+### About Me 🚀
+🎓  I’m a Computer Science Grad Student at The University of Texas at Dallas. </br>
+👨‍💻  I am passionate about Data Science, Machine Learning , AI, Kubernetes, Web Development, DevOps. </br>
+🤔  I’m currenly seeking summer 2022 SE internships. <br/>
+⚡  Fun fact: I have broken humor. <br/>
+
+
