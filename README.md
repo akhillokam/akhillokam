@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Readme Update-->
 
-<h1 align="center">Hi <img src="https://github.com/akhillokam/Akhil/blob/main/Wave.gif" height="55px" width="55px">, I am Shammi Akhil Lokam</h1>
+<h1 align="center">Hi <img src="https://github.com/akhillokam/akhillokam/blob/main/Wave.gif" height="55px" width="55px">, I am Shammi Akhil Lokam</h1>
 <h3 align="center">Getting in the Game. Committed to the Future 😁 </h3>
 
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<p><img align="right" alt="GIF" src="https://github.com/akhillokam/Akhil/blob/main/tech.gif" width="300" height="250" /></p> </br>
+<p><img align="right" alt="GIF" src="https://github.com/akhillokam/akhillokam/blob/main/tech.gif" width="300" height="250" /></p> </br>
 
 
 ### About Me 🚀
