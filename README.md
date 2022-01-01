@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Readme Update-->
 
-<h1 align="center">Hi <img src="https://github.com/akhillokam/akhillokam/blob/main/Wave.gif" height="55px" width="55px">, I am Akhil Lokamం</h1>
+<h1 align="center">Hi <img src="https://github.com/akhillokam/akhillokam/blob/main/Wave.gif" height="55px" width="55px">, I am Akhil Lokam</h1>
 <h3 align="center">Getting in the Game. Committed to the Future 😁 </h3>
 
 
